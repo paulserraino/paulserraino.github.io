@@ -1,3 +1,2 @@
 # paulserraino.github.io
-
-[paulserraino.com](paulserraino.com)
+[paulserraino.com](http://paulserraino.com)
